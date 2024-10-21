@@ -51,14 +51,13 @@ const projectList = [
   {
     title: "Audio Cutter Web App",
     description:
-    "An Audio Cutter and Audio Trimmer Web Application, made using React.js, Node.js, Next.js",
+      "An Audio Cutter and Audio Trimmer Web Application, made using React.js, Node.js, Next.js.",
     url: "https://github.com/Aditya227-tech/priceless-beaver-2whlls",
   },
 
   {
     title: "WebToon App",
-    description:
-    "A Manga Reader Native Application, made using React Native",
+    description: "A Manga Reader Native Application, made using React Native",
     url: "https://github.com/Aditya227-tech/WebtoonApp",
   },
 ];
