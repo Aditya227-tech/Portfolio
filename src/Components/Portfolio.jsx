@@ -33,26 +33,33 @@ const projectList = [
   {
     title: "Home Food Recepie React App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "This project is about creating a Home Food Recipie React app, created with the help oh Node.js and React.js.",
     url: "https://github.com/Aditya227-tech/Home-Food-Recipie-React-app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Headset  Online Store Web App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project is about a Headset Store Website, created with the help of Node.js, React.js, Next.js, Stripe.",
+    url: "https://github.com/Aditya227-tech/Headset-Store-Website.com",
   },
   {
-    title: "My Resume Site",
+    title: "Car  Online Rental Web Application ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project is about an Online Car Rental Web Application created using Node.js React.js.",
+    url: "https://github.com/Aditya227-tech/Car-Rental-Website-React",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Audio Cutter Web App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    "An Audio Cutter and Audio Trimmer Web Application, made using React.js, Node.js, Next.js",
+    url: "https://github.com/Aditya227-tech/priceless-beaver-2whlls",
+  },
+
+  {
+    title: "WebToon App",
+    description:
+    "A Manga Reader Native Application, made using React Native",
+    url: "https://github.com/Aditya227-tech/WebtoonApp",
   },
 ];
 
