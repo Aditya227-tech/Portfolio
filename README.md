@@ -1,4 +1,4 @@
-"C:\Users\ADITYA\Videos\Screen Recordings\Screen Recording 2024-10-22 193210.mp4"
+C:\Users\ADITYA\Videos\Screen Recordings\Screen Recording 2024-10-22 193210.mp4
 ## 📚 Resources
 
 * [GitHub Codespaces docs overview](https://docs.github.com/codespaces/overview)
