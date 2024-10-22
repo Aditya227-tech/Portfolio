@@ -1,10 +1,23 @@
 
-
-Screen Recording 2024-10-22 193210.mp4
-
+![Screenshot 2024-10-22 193522](https://github.com/user-attachments/assets/5d49f58a-cb32-48a4-a493-982d2e8a3138)
 
 
 
+
+
+![Screenshot 2024-10-22 193539](https://github.com/user-attachments/assets/942dc010-1bca-44fa-a4c6-92335e63ce3f)
+
+
+
+
+
+![Screenshot 2024-10-22 193556](https://github.com/user-attachments/assets/57602816-fcc5-442a-b094-be0d4e0a1f1d)
+
+
+
+
+
+![Screenshot 2024-10-22 193620](https://github.com/user-attachments/assets/7bb5f1b2-4c12-49aa-8e90-d99ad098771d)
 
 
 ## 📚 Resources
